@@ -13,9 +13,11 @@ Unzip, and open the app!
 The display dialogs should guide you through everything pretty easily. First, enter someone's iMessage number or email. Then, the message you want to blast. Finally, enter the number of times you want to blast it.
 
 ## Changelog
+
 ### v1.2.0 -- Current Release
  - Changed to pure applescript; no longer uses Mac Automator
  - Added titles to the dispaly dialogs
  - Added maximum number of blasts
+
 ### v1.1.0
  - Inital release on GitHub
