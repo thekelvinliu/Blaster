@@ -7,7 +7,7 @@ Note: I am not responsible for any friends you may lose or enemies you may make 
 
 ## Installation
     git clone https://github.com/thekelvinliu/Blaster.git
-Unzip, and open the app!
+Go into the folder, and open the app!
 
 ## Usage
 The display dialogs should guide you through everything pretty easily. First, enter someone's iMessage number or email. Then, the message you want to blast. Finally, enter the number of times you want to blast it.
